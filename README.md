@@ -5,7 +5,7 @@ Replicates my personal Claude Code environment across machines.
 ## Quick Start
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/gfu-cc/claude-code-setup/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/furterg/claude-code-setup/master/setup.sh)
 ```
 
 Or follow the manual steps below.
